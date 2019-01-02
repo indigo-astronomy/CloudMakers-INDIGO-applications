@@ -1,2 +1,3 @@
-# CloudMakers-INDIGO-applications
-Issue tracking for CloudMakers INDIGO applications
+# CloudMakers INDIGO applications
+
+There is no source code here, just issue tracking.
